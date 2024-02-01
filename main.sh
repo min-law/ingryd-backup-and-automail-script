@@ -185,5 +185,5 @@ else
 	echo "mail sending failed, Try again!"
 fi
 
-echo "DONE WITH Four 💯..."
+echo "DONE WITH Four 💯....."
 sleep 2 
